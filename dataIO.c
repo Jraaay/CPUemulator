@@ -1,9 +1,3 @@
-/*
- * Copyright (C) Jray
- * Created:2020.03.25
- * Last improved:2020.06.01 
- */
-
 #include "CPUemulator.h" 
 
 /*获取寄存器内容、寄存器指向的内存内容*/
