@@ -8,6 +8,10 @@
 
 编译的命令为：`gcc -o CPUemulator.exe CPUemulator.h dataIO.c initialize.c instructionProcess.c instructionSet.c main.c printFunction.c toolFunction.c`
 
+*(或者您可以前往Release页面下载已经编译的可执行文件)*
+
+注：该代码仅适用于Windows平台运行，不支持Linux及MacOS。
+
 ## 指令集
 | 指令名称   | 指令                                 | 说明                                                                                           |
 |--------|------------------------------------|----------------------------------------------------------------------------------------------|
